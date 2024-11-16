@@ -1,3 +1,5 @@
+<img src="./images/oc-banner-project-04-1660-v1.png" />
+
 # Projet 4 - Construisez un modèle de scoring
 
 > 🎓 OpenClassrooms • Parcours [AI Engineer](https://openclassrooms.com/fr/paths/795-ai-engineer) | 👋 *Etudiant* : [David Scanu](https://www.linkedin.com/in/davidscanu14/)
