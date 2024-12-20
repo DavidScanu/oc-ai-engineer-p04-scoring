@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+ipykernel
+plotly
+scipy
+chardet
+imbalanced-learn
+scikit-learn-intelex
+dpctl
+scikit-plot
+scikit-learn-intelex
