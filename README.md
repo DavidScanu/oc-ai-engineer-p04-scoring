@@ -36,6 +36,7 @@ Pour réaliser ce modèle, [un jeu de données](https://s3-eu-west-1.amazonaws.c
 
 ## 📦 Livrables
 
-- [Notebook Colab]()
+- Notebooks : 
+  - Analyse exploratoire
+  - Entrainement et évaluations des modèles
 - [Présentation]()
-- [Dépôt GitHub](https://github.com/DavidScanu/oc-ai-engineer-p04-scoring)
