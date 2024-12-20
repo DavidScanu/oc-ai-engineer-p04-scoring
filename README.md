@@ -37,6 +37,6 @@ Pour réaliser ce modèle, [un jeu de données](https://s3-eu-west-1.amazonaws.c
 ## 📦 Livrables
 
 - Notebooks : 
-  - Analyse exploratoire
-  - Entrainement et évaluations des modèles
-- [Présentation]()
+  - [Analyse exploratoire](p04_scanu_david_01_notebook_eda_2024_11_22.ipynb)
+  - [Entrainement et évaluations des modèles](p04_scanu_david_02_notebook_training_2024_11_22.ipynb)
+- [Présentation](https://docs.google.com/presentation/d/1tW8phNO9fwAmkyNuxY0mfZj8kJURSVMVd33iS_vVPaM/edit?usp=sharing)
