@@ -25,15 +25,6 @@ Pour réaliser ce modèle, [un jeu de données](https://s3-eu-west-1.amazonaws.c
 - Évaluer les performances des modèles d’apprentissage supervisé selon différents critères
 - Sélectionner et entraîner des modèles d’apprentissage supervisé
 
-## 📊 Présentation
-
-- Compréhension de la problématique métier
-- Description du jeu de données
-- Transformation du jeu de données (nettoyage et feature engineering)
-- Comparaison et synthèse des résultats pour les modèles utilisés
-- Interprétabilité du modèle
-- Conclusion
-
 ## 📦 Livrables
 
 - Notebooks : 
